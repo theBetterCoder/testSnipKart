@@ -1,7 +1,5 @@
 ---
 title: testSnipcart
-url: 'https://snipcart.github.io/snipcart-jamstack'
-snipcart_api_key: ''
 timezone: UTC
 collections:
   posts:
@@ -30,4 +28,6 @@ defaults:
     type: pages
   values:
     layout: page
+url: https://snipcart.github.io/snipcart-jamstack
+snipcart_api_key: ''
 permalink: pretty
