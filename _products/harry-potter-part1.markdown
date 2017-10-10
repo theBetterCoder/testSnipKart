@@ -8,4 +8,4 @@ image: "/uploads/MP.jpg"
 weight: 10
 ---
 
-{Products.Title}
+some desc
